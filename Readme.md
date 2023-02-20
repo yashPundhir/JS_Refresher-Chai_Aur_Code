@@ -10,3 +10,7 @@
 ---
 - Variables & Datatypes in JS => `done`
 ---
+- Our First User Signup => `done`
+---
+- Operations in JS - Calculate Discount => `done`
+---
