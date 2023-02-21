@@ -14,3 +14,5 @@
 ---
 - Operations in JS - Calculate Discount => `done`
 ---
+- Type & Operator Precedence in JavaScript => `done`
+---
