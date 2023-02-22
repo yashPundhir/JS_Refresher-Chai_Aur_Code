@@ -27,3 +27,7 @@
 ---
 - Ternary Operators in JavaScript => `done`
 ---
+- Switch for Role Based Access in JavasScript => `done`
+---
+- Coercion & Falsy Values in JavaScript => `done`
+---
