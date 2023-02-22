@@ -23,3 +23,7 @@
 ---
 - Logical Conditionals for Purchase in JS => `done`
 ---
+- Logical Conditionals for Login in JavaScript => `done`
+---
+- Ternary Operators in JavaScript => `done`
+---
