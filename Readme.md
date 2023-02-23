@@ -38,3 +38,7 @@
 ---
 - Functions in Variable | User Role in JS => `done`
 ---
+- Understand the Context in JS => `done`
+---
+- Code Hoisting in JS => `done`
+---
