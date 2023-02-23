@@ -31,3 +31,10 @@
 ---
 - Coercion & Falsy Values in JavaScript => `done`
 ---
+
+## Section 3: Functions in JavaScript (6 Videos)
+
+- Basics of Functions in JS => `done`
+---
+- Functions in Variable | User Role in JS => `done`
+---
