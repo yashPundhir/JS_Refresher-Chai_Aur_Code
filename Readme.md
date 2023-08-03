@@ -42,3 +42,5 @@
 ---
 - Code Hoisting in JS => `done`
 ---
+
+## Lexical Scope and Closures => `done`
