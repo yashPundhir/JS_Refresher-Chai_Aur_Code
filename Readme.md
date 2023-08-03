@@ -44,3 +44,5 @@
 ---
 
 ## Lexical Scope and Closures => `done`
+
+## High Order Array Loops => `done`
