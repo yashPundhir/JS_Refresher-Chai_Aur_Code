@@ -46,3 +46,7 @@
 ## Lexical Scope and Closures => `done`
 
 ## High Order Array Loops => `done`
+
+## Global & Local Scope in JS => `done`
+
+
