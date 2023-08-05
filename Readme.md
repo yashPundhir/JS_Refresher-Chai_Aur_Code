@@ -52,3 +52,5 @@
 ## Scope Level & Mini Hoisting in JS => `done`
 
 ## Async JS Fundamentals => `done`
+
+## Events in JS => `done`
