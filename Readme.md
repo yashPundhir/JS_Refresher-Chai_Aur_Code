@@ -50,3 +50,5 @@
 ## Global & Local Scope in JS => `done`
 
 ## Scope Level & Mini Hoisting in JS => `done`
+
+## Async JS Fundamentals => `done`
