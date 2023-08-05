@@ -54,3 +54,5 @@
 ## Async JS Fundamentals => `done`
 
 ## Events in JS => `done`
+
+## Now you know objects in JS => `done`
