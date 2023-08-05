@@ -56,3 +56,5 @@
 ## Events in JS => `done`
 
 ## Now you know objects in JS => `done`
+
+## How does JS Execute code + Call Stack => `done`
