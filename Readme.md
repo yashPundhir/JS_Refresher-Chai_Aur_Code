@@ -72,3 +72,5 @@
 ## Datatype Conversion Confusion => `done`
 
 ## Comparison of Datatypes in JS => `done`
+
+## Datatypes of JS Summary => `done`
