@@ -70,3 +70,5 @@
 ## THIS and Arrow Function in JS => `done`
 
 ## Datatype Conversion Confusion => `done`
+
+## Comparison of Datatypes in JS => `done`
