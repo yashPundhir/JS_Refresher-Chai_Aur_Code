@@ -76,3 +76,5 @@
 ## Datatypes of JS Summary => `done`
 
 ## Setting up environment in local machine for JS => `done`
+
+## Save & work on GitHub for JS => `done`
