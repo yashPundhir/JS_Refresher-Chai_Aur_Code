@@ -74,3 +74,5 @@
 ## Comparison of Datatypes in JS => `done`
 
 ## Datatypes of JS Summary => `done`
+
+## Setting up environment in local machine for JS => `done`
