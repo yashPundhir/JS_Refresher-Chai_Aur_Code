@@ -78,3 +78,5 @@
 ## Setting up environment in local machine for JS => `done`
 
 ## Save & work on GitHub for JS => `done`
+
+## Datatypes & ECMA Standards in JS => `done`
