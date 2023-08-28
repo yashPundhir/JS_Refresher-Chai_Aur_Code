@@ -80,3 +80,5 @@
 ## Save & work on GitHub for JS => `done`
 
 ## Datatypes & ECMA Standards in JS => `done`
+
+## Why String to Number conversion is confusing => `done`
