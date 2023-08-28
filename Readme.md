@@ -84,3 +84,5 @@
 ## Why String to Number conversion is confusing => `done`
 
 ## Strings in JS => `done`
+
+## Number and Maths in JS => `done`
