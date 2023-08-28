@@ -82,3 +82,5 @@
 ## Datatypes & ECMA Standards in JS => `done`
 
 ## Why String to Number conversion is confusing => `done`
+
+## Strings in JS => `done`
