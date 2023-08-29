@@ -90,3 +90,5 @@
 ## Date & Time in depth in JS => `done`
 
 ## Arrays in JS part-1 => `done`
+
+## Arrays in JS part-2 => `done`
