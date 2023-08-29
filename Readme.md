@@ -86,3 +86,5 @@
 ## Strings in JS => `done`
 
 ## Number and Maths in JS => `done`
+
+## Date & Time in depth in JS => `done`
