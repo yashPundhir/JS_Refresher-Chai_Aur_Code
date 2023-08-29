@@ -88,3 +88,5 @@
 ## Number and Maths in JS => `done`
 
 ## Date & Time in depth in JS => `done`
+
+## Arrays in JS part-1 => `done`
