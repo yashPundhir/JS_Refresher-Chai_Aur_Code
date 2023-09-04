@@ -94,3 +94,5 @@
 ## Arrays in JS part-2 => `done`
 
 ## Objects in JS part-1 => `done`
+
+## Objects in JS part-2 => `done`
