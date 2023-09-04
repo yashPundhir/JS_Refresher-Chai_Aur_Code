@@ -98,3 +98,5 @@
 ## Objects in JS part-2 => `done`
 
 ## Object de-structure & JSON API intro => `done`
+
+## Functions & Parameters in JS => `done`
