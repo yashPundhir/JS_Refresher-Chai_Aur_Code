@@ -106,3 +106,5 @@
 ## Control Flow in JS => `done`
 
 ## For loop with break & continue in JS => `done`
+
+## While & Do-While loop in JS => `done`
