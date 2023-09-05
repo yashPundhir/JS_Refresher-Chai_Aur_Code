@@ -100,3 +100,5 @@
 ## Object de-structure & JSON API intro => `done`
 
 ## Functions & Parameters in JS => `done`
+
+## Functions with Objects & Arrays in JS => `done`
