@@ -108,3 +108,5 @@
 ## For loop with break & continue in JS => `done`
 
 ## While & Do-While loop in JS => `done`
+
+## DOM Introduction in JS => `done`
