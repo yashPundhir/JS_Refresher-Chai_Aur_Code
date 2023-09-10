@@ -110,3 +110,5 @@
 ## While & Do-While loop in JS => `done`
 
 ## DOM Introduction in JS => `done`
+
+## All DOM Selectors NodeList & HTMLCollection => `done`
