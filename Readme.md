@@ -114,3 +114,5 @@
 ## All DOM Selectors NodeList & HTMLCollection => `done`
 
 ## How to create a new element in DOM => `done`
+
+## Edit & Remove elements in DOM => `done`
