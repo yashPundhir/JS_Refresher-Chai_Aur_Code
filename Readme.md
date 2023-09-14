@@ -118,3 +118,5 @@
 ## Edit & Remove elements in DOM => `done`
 
 ## Let's build 4 DOM Projects in JS => `done`
+
+## 2 Projects with Async JS => `done`
