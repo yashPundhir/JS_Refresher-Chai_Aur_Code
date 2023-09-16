@@ -122,3 +122,5 @@
 ## 2 Projects with Async JS => `done`
 
 ## API Request & V8 Engine => `done`
+
+## Promises in JS => `done` 
