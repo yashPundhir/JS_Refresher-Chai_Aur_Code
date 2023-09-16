@@ -123,4 +123,6 @@
 
 ## API Request & V8 Engine => `done`
 
-## Promises in JS => `done` 
+## Promises in JS => `done`
+
+## Now you know `fetch()` in JS => `done`
