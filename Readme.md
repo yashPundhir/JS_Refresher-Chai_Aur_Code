@@ -126,3 +126,5 @@
 ## Promises in JS => `done`
 
 ## Now you know `fetch()` in JS => `done`
+
+## OOP in JS => `done`
