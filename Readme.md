@@ -130,3 +130,5 @@
 ## OOP in JS => `done`
 
 ## Magic of Prototype in JS => `done`
+
+## Call & `this` in JS => `done` 
