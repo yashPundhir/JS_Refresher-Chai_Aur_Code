@@ -128,3 +128,5 @@
 ## Now you know `fetch()` in JS => `done`
 
 ## OOP in JS => `done`
+
+## Magic of Prototype in JS => `done`
