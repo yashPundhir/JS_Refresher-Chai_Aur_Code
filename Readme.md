@@ -131,4 +131,6 @@
 
 ## Magic of Prototype in JS => `done`
 
-## Call & `this` in JS => `done` 
+## Call & `this` in JS => `done`
+
+## Class Constructor & Static => `done`
