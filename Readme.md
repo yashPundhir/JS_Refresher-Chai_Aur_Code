@@ -136,3 +136,5 @@
 ## Class Constructor & Static => `done`
 
 ## Bind in JS => `done`
+
+## Now you know Objects in JS => `done`
