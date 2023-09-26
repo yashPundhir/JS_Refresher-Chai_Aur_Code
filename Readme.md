@@ -134,3 +134,5 @@
 ## Call & `this` in JS => `done`
 
 ## Class Constructor & Static => `done`
+
+## Bind in JS => `done`
