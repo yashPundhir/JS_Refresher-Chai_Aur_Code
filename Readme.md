@@ -140,3 +140,5 @@
 ## Now you know Objects in JS => `done`
 
 ## Getter Setter and Stack Overflow => `done`
+
+## Lexical scoping and Closure => `done`
